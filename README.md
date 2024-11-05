@@ -40,21 +40,33 @@ Citation:
 If you find our work useful for your research, please cite:
 
 @InProceedings{Liu_2022_CVPR,
+
     author    = {Liu, Kunliang and Choi, Ouk and Wang, Jianming and Hwang, Wonjun},
+    
     title     = {CDGNet: Class Distribution Guided Network for Human Parsing},
+    
     booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    
     month     = {June},
+    
     year      = {2022},
+    
     pages     = {4473-4482}
+    
 }
 
 
 
 @article{SSUCSFR2024,
+
     title={ Channel and Spatial Enhancement Network for Human Parsing },
+    
     journal = {Image and Vision Computing (\textit{IVC})},
-    author={Kunliang Liu, Rize Jin, Yuelong Li, Jianming Wang, and Wonjun Hwang },   
+    
+    author={Kunliang Liu, Rize Jin, Yuelong Li, Jianming Wang, and Wonjun Hwang },  
+    
     year = {2024}
+    
 }
 
 ............
