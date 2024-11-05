@@ -47,7 +47,7 @@ Training
 
 Please download imagenet pretrained resent-101 from [baidu drive](https://pan.baidu.com/s/1NoxI_JetjSVa7uqgVSKdPw) or [Google drive](https://drive.google.com/open?id=1rzLU-wK6rEorCNJfwrmIu5hY2wRMyKTK), and put it into dataset folder.
 
-./run.sh
+run ./run.sh
 
 
 Evaluation
