@@ -19,14 +19,23 @@ Dataset
 Please download LIP dataset and make them follow this structure:
 
 '''
+
 |-- LIP
+
     |-- images_labels
+    
         |-- train_images
+        
         |-- train_segmentations
+        
         |-- val_images
+        
         |-- val_segmentations
+        
         |-- train_id.txt
+        
         |-- val_id.txt
+        
 '''
 
 Please download imagenet pretrained resent-101 from [baidu drive](https://pan.baidu.com/s/1NoxI_JetjSVa7uqgVSKdPw) or [Google drive](https://drive.google.com/open?id=1rzLU-wK6rEorCNJfwrmIu5hY2wRMyKTK), and put it into dataset folder.
