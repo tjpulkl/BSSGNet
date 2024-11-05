@@ -14,11 +14,13 @@ Python 3.7
 
 Implementation
 
-Dataset Please download LIP dataset and make them follow this structure: ''' |-- LIP |-- images_labels |-- train_images |-- train_segmentations |-- val_images |-- val_segmentations |-- train_id.txt |-- val_id.txt ''' Please download imagenet pretrained resent-101 from baidu drive or Google drive, and put it into dataset folder.
+Dataset Please download LIP dataset and make them follow this structure:
+''' |-- LIP |-- images_labels |-- train_images |-- train_segmentations |-- val_images |-- val_segmentations |-- train_id.txt |-- val_id.txt ''' 
+Please download imagenet pretrained resent-101 from baidu drive or Google drive, and put it into dataset folder.
 
 Training and Evaluation
 ./run.sh
-Please download the trained model for LIP dataset from baidu drive and put it into snapshots folder.
+Please download the trained model for LIP dataset from baidu drive (https://pan.baidu.com/s/1-9pR_ycvqkWBnDoKyI2nUw?pwd=bb9c) and put it into snapshots folder.
 
 run ./run_evaluate_multiScale.sh for multiple scale evaluation.
 
