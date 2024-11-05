@@ -1,5 +1,6 @@
 This repo is a PyTorch implementation of our paper "Channel and Spatial Enhancement Network for Human Parsing" accepted by lmage and Vision Computing. 
- The dominant backbones of neural networks for scene parsing consist of multiple stages, where feature maps in different stages often contain varying levels of spatial and semantic information. High-level features convey more semantics and fewer spatial details, while low-level features possess fewer
+ 
+The dominant backbones of neural networks for scene parsing consist of multiple stages, where feature maps in different stages often contain varying levels of spatial and semantic information. High-level features convey more semantics and fewer spatial details, while low-level features possess fewer
 semantics and more spatial details. Consequently, there are semantic-spatial gaps among features at different levels, particularly in human parsing tasks. Many existing approaches directly upsample multi-stage features and aggregate them through addition or concatenation, without addressing the
 semantic-spatial gaps present among these features. This inevitably leads to spatial misalignment, semantic mismatch, and ultimately misclassification in parsing, especially for human parsing that demands more semantic information and more fine details of feature maps for the reason of
 intricate textures, diverse clothing styles, and heavy scale variability across different human parts. In this paper, we effectively alleviate the long-standing challenge of addressing semantic-spatial gaps between features from different stages by innovatively utilizing the subtraction and addition
@@ -35,6 +36,8 @@ If you find our work useful for your research, please cite:
     year      = {2022},
     pages     = {4473-4482}
 }
+
+
 ............
 
 Acknowledgement:
