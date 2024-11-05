@@ -29,7 +29,7 @@ Please download imagenet pretrained resent-101 from [baidu drive](https://pan.ba
 
 Training and Evaluation
 ./run.sh
-Please download the trained model for LIP dataset from baidu drive (https://pan.baidu.com/s/1-9pR_ycvqkWBnDoKyI2nUw?pwd=bb9c) and put it into snapshots folder.
+Please download the trained model for LIP dataset from [baidu drive](https://pan.baidu.com/s/1-9pR_ycvqkWBnDoKyI2nUw?pwd=bb9c) and put it into snapshots folder.
 
 run ./run_evaluate_multiScale.sh for multiple scale evaluation.
 
