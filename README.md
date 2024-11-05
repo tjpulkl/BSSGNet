@@ -13,10 +13,19 @@ Requirements Pytorch 1.9.0
 Python 3.7
 
 Implementation
-
-Dataset Please download LIP dataset and make them follow this structure:
-''' |-- LIP |-- images_labels |-- train_images |-- train_segmentations |-- val_images |-- val_segmentations |-- train_id.txt |-- val_id.txt ''' 
-Please download imagenet pretrained resent-101 from baidu drive or Google drive, and put it into dataset folder.
+Dataset
+Please download LIP dataset and make them follow this structure:
+'''
+|-- LIP
+    |-- images_labels
+        |-- train_images
+        |-- train_segmentations
+        |-- val_images
+        |-- val_segmentations
+        |-- train_id.txt
+        |-- val_id.txt
+'''
+Please download imagenet pretrained resent-101 from [baidu drive](https://pan.baidu.com/s/1NoxI_JetjSVa7uqgVSKdPw) or [Google drive](https://drive.google.com/open?id=1rzLU-wK6rEorCNJfwrmIu5hY2wRMyKTK), and put it into dataset folder.
 
 Training and Evaluation
 ./run.sh
@@ -38,7 +47,12 @@ If you find our work useful for your research, please cite:
     year      = {2022},
     pages     = {4473-4482}
 }
-
+@article{SSUCSFR2024,
+    title={ Channel and Spatial Enhancement Network for Human Parsing },
+    journal = {Image and Vision Computing (\textit{IVC})},
+    author={Kunliang Liu, Rize Jin, Yuelong Li, Jianming Wang, and Wonjun Hwang },   
+    year = {2024}
+}
 
 ............
 
