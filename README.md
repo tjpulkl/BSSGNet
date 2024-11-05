@@ -37,11 +37,20 @@ Please download LIP dataset and make them follow this structure:
         |-- val_id.txt
         
 '''
+
+
 Training and Evaluation
+
+
 Training
+
+
 Please download imagenet pretrained resent-101 from [baidu drive](https://pan.baidu.com/s/1NoxI_JetjSVa7uqgVSKdPw) or [Google drive](https://drive.google.com/open?id=1rzLU-wK6rEorCNJfwrmIu5hY2wRMyKTK), and put it into dataset folder.
 ./run.sh
+
+
 Evaluation
+
 Please download the trained model for LIP dataset from [baidu drive](https://pan.baidu.com/s/1-9pR_ycvqkWBnDoKyI2nUw?pwd=bb9c) and put it into snapshots folder.
 run ./run_evaluate_multiScale.sh for multiple scale evaluation.
 
