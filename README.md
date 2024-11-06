@@ -85,7 +85,7 @@ If you find our work useful for your research, please cite:
 
     title={ Channel and Spatial Enhancement Network for Human Parsing },
     
-    journal = {Image and Vision Computing (\textit{IVC})},
+    journal = {Image and Vision Computing (IVC)},
     
     author={Kunliang Liu, Rize Jin, Yuelong Li, Jianming Wang, and Wonjun Hwang },  
     
