@@ -63,7 +63,7 @@ Citation:
 
 If you find our work useful for your research, please cite:
 
-@InProceedings{Liu_2022_CVPR,
+@InProceedings{  CDGNet2022,
 
     author    = {Liu, Kunliang and Choi, Ouk and Wang, Jianming and Hwang, Wonjun},
     
@@ -81,7 +81,7 @@ If you find our work useful for your research, please cite:
 
 
 
-@article{SSUCSFR2024,
+@article{CSENet2024,
 
     title={ Channel and Spatial Enhancement Network for Human Parsing },
     
