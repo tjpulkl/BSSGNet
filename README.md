@@ -87,7 +87,11 @@ If you find our work useful for your research, please cite:
     
     journal = {Image and Vision Computing (IVC)},
     
-    author={Kunliang Liu, Rize Jin, Yuelong Li, Jianming Wang, and Wonjun Hwang },  
+    author={Kunliang Liu, Rize Jin, Yuelong Li, Jianming Wang, and Wonjun Hwang }, 
+
+    month= {December},
+    
+    volume={152},
     
     year = {2024}
     
